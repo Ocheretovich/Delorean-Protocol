@@ -1,7 +1,7 @@
 ![](./Delorean-Docs/assets/banner.png)
 
 ![Static Badge](https://img.shields.io/badge/build_for-HackFS_2024-green)
-![GitHub License](https://img.shields.io/github/license/BadBoiLabs/Delorean-Protocol)
+[![GitHub License](https://img.shields.io/github/license/BadBoiLabs/Delorean-Protocol)](https://github.com/ChainSafe/Delorean-Protocol/blob/main/LICENSE-APACHE)
 
 
 An IPC subnet for programmable encryption to-the-future.
